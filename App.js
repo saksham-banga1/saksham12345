@@ -7,7 +7,7 @@ export default class App extends Component {
     //return <BottomTabNavigator>;
     //<BottomTabNavigator />;
     //return <BottomTabNavigator />;
-    //</BottomTabNavigator>return <BottomTabNavigator> <BottomTabNavigator />;
+    //return <BottomTabNavigator> <BottomTabNavigator />;
     
   }
 }
